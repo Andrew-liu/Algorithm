@@ -5,6 +5,7 @@
  * Symbol Table的应用:
  *
  * 1. Set的实现, 元素不重复, 需要进行查找, 然后放入set
+ * 2. 建立一个可高效查找文件的索引 <String, Set<fileName>>  遍历文件, 查找String.
  */
 public class SequentialSearch<Key, Value> {
     private Node first;
