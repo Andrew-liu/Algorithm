@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SysbolTables.iml" filepath="$PROJECT_DIR$/SysbolTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SymbolTable.iml" filepath="$PROJECT_DIR$/SymbolTable.iml" />
     </modules>
   </component>
 </project>

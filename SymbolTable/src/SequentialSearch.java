@@ -1,6 +1,10 @@
 /**
  * Created by andrew_liu on 15/4/21.
  * 无序链表实现顺序查找
+ *
+ * Symbol Table的应用:
+ *
+ * 1. Set的实现, 元素不重复, 需要进行查找, 然后放入set
  */
 public class SequentialSearch<Key, Value> {
     private Node first;
