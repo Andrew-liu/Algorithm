@@ -1,6 +1,8 @@
 /**
  * Created by andrew_liu on 15/4/27.
  * 广度优先遍历使用队里存储连通轨迹
+ *
+ * 广度优先遍历实现爬虫程序, 初始站点入队, 正则匹配所有初始站点中的page, 然后所有page入队, 继续广度优先遍历, 并且用set保证网站不重复遍历
  */
 public class BreadthFirstPaths {
     private boolean[] marked;

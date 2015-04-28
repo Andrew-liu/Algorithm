@@ -1,5 +1,6 @@
 /**
  * Created by andrew_liu on 15/4/27.
+ * 深度优先遍历适用于无向图和有向图
  */
 public class DepthFirstSearch {
     private boolean[] marked;
