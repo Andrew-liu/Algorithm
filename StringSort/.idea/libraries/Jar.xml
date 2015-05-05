@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Hadoop/Jar/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Hadoop/Jar/algs4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Hadoop/Jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Hadoop/Jar/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Hadoop/Jar/algs4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Hadoop/Jar" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../Hadoop/Jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Hadoop/Jar" recursive="false" type="SOURCES" />
+  </library>
+</component>
