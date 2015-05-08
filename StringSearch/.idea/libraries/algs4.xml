@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Hadoop/Jar/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Hadoop/Jar/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Hadoop/Jar/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Hadoop/Jar/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
